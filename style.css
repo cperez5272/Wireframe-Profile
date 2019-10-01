@@ -1,0 +1,137 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: grey;
+}
+.main {
+    background-color: white;
+    padding: 20px;
+    margin: auto;
+    margin-top: 50px;
+    margin-left: 90px;
+    margin-right: 90px;
+    height: 14cm;
+}
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
+.main_cesar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    border: solid black 1px;
+}
+.full_name {
+    text-align: center;
+}
+.job_title {
+    text-align: center;
+}
+.click_about {
+    text-align: center;
+}
+.ig_icon {
+    position: absolute;
+    width: 5%;
+    height: auto;
+    left: 10cm;
+}
+.git_icon {
+    position: absolute;
+    width: 5%;
+    height: auto;
+    left: 13cm;
+}
+.mail_icon {
+    position: absolute;
+    width: 5%;
+    height: auto;
+    left: 16cm;
+}
+.in_icon {
+    position: absolute;
+    width: 5%;
+    height: auto;
+    left: 19cm;
+}
+.reddit_icon {
+    position: absolute;
+    width: 5%;
+    height: auto;
+    left: 22cm;
+}
+/* Main page is done */
+.about {
+    background-color: white;
+    padding: 20px;
+    margin: auto;
+    margin-top: 50px;
+    margin-left: 90px;
+    margin-right: 90px;
+    height: 14cm;
+}
+.about_cesar {
+    margin-right: auto;
+    border-radius: 50%;
+    height: 22%;
+    border: solid black 1px;
+}
+.about_dog {
+    border-radius: 50%;
+    height: 22%;
+    border: solid black 1px;
+    margin-left: 840px;
+}
+.about_one {
+    text-align: center;
+    min-height: 100px;
+    padding: 4%;
+    background-color: grey;
+}
+.about_two {
+    text-align: center;
+    min-height: 220px;
+    padding: 4%;
+    background-color: grey; 
+}
+/* about me is done */
+.project_list {
+    background-color: white;
+    padding: 20px;
+    margin: auto;
+    margin-top: 50px;
+    margin-left: 90px;
+    margin-right: 90px;
+    height: 14cm;
+    overflow: scroll; 
+}
+.quiz_title {
+    text-align: center;
+}
+.quiz_photo {
+    text-align: center;
+    min-height: 80px;
+    padding: 20%;
+    background-color: grey;
+}
+.describe {
+    text-align: center;
+    min-height: 80px;
+    padding: 5%;
+    background-color: grey;
+}
+.programs_used {
+    text-align: center;
+    min-height: 80px;
+    padding: 5%;
+    background-color: grey;
+}
+.links {
+    text-align: center;
+    min-height: 80px;
+    padding: 5%;
+    background-color: grey; 
+}
